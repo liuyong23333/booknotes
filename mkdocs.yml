@@ -13,9 +13,9 @@ nav:
     - C/C++: 'cpp/cpp.md'
     - 操作系统:
       - 《程序员的的自我修养》: 'os/xxx.md'
-    - 计算机网络: ''
-    - 系统编程:
-    - 网络编程:
+    - 计算机网络: 'network/xxx.md'
+    - 系统编程: 'system_program/xxx.md'
+    - 网络编程: 'network_program/xxx.md'
     - 数据库:
       - 缓存: 'database/redis.md'
       - DB: 'database/mysql.md'
