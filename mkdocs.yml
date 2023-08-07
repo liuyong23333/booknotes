@@ -10,12 +10,11 @@ markdown_extensions:
 
 nav:
     - 简介: 'index.md'
-    - C/C++: 'cpp/cpp.md'
-    - 操作系统:
-      - 《程序员的的自我修养》: 'os/xxx.md'
-    - 计算机网络: 'network/xxx.md'
-    - 系统编程: 'system_program/xxx.md'
-    - 网络编程: 'network_program/xxx.md'
+    - C/CPP: 'cpp.md'
+    - 操作系统: 'operating_system.md'
+    - 计算机网络: 'network.md'
+    - 系统编程: 'system_program.md'
+    - 网络编程: 'network_program.md'
     - 数据库:
       - 缓存: 'database/redis.md'
       - DB: 'database/mysql.md'
