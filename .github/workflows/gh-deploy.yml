@@ -17,4 +17,3 @@ jobs:
           path: .cache
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
-      - run: mkdocs serve
